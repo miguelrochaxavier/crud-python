@@ -1,9 +1,5 @@
 # Gestão de Cargas Industrial - CRUD em Python
 
-<p aling="center">
-    <h1>Gestão de Cargas Industrial com Python</h1>
-</p>
-
 <br/>
 
 ## 🚀 Tecnologias
